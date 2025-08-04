@@ -73,7 +73,4 @@ Este projeto foi desenvolvido com a aplicação dos princípios SOLID em mente, 
 - **Interface Segregation Principle (ISP):** Interfaces são específicas para clientes.
 - **Dependency Inversion Principle (DIP):** Módulos de alto nível não dependem de módulos de baixo nível, ambos dependem de abstrações.
 
-## Contribuição
-
-Sinta-se à vontade para contribuir com melhorias ou correções. Crie um fork do repositório, faça suas alterações e envie um pull request.
 
