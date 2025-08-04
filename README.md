@@ -1,6 +1,6 @@
 # GameManagementAPI
 
-Este projeto implementa um web service em C# e .NET para gerenciamento de jogos, com operações CRUD (Create, Read, Update, Delete) e persistência de dados em memória. O projeto também inclui um Dockerfile para facilitar a conteinerização da aplicação.
+Este projeto implementa um web service em C# e .NET para gerenciamento de jogos, com operações CRUD (Create, Read, Update, Delete) e persistência de dados em memória. O projeto também inclui um Dockerfile para facilitar a conteinerização da aplicação. Alguns prints estão meio borrados pois tentei aumentar a qualidade deles com upperscaling.
 
 ## Requisitos
 
